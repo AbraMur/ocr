@@ -2,6 +2,5 @@ packaging==24.0
 pillow==10.3.0
 pip==24.0
 pytesseract==0.3.10
-regex==2024.4.28
 setuptools==60.2.0
 wheel==0.37.1
